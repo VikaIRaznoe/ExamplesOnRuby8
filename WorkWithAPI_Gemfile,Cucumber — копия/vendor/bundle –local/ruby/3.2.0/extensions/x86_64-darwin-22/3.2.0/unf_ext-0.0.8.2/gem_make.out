@@ -1,0 +1,19 @@
+current directory: /Users/viktoria/Desktop/УБРАТЬ/WorkWithAPI_Gemfile,Cucumber/vendor/bundle –local/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/viktoria/.rvm/rubies/ruby-3.2.1/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/viktoria/Desktop/УБРАТЬ/WorkWithAPI_Gemfile,Cucumber/vendor/bundle –local/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230427-47929-z67usa sitelibdir\=./.gem.20230427-47929-z67usa clean
+
+current directory: /Users/viktoria/Desktop/УБРАТЬ/WorkWithAPI_Gemfile,Cucumber/vendor/bundle –local/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230427-47929-z67usa sitelibdir\=./.gem.20230427-47929-z67usa
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/viktoria/Desktop/УБРАТЬ/WorkWithAPI_Gemfile,Cucumber/vendor/bundle –local/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230427-47929-z67usa sitelibdir\=./.gem.20230427-47929-z67usa install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 unf_ext.bundle ./.gem.20230427-47929-z67usa
+
+current directory: /Users/viktoria/Desktop/УБРАТЬ/WorkWithAPI_Gemfile,Cucumber/vendor/bundle –local/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230427-47929-z67usa sitelibdir\=./.gem.20230427-47929-z67usa clean
